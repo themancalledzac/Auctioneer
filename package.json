@@ -1,0 +1,23 @@
+{
+  "name": "Auctioneer",
+  "version": "1.0.0",
+  "description": "**Instructions**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themancalledzac/Auctioneer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themancalledzac/Auctioneer/issues"
+  },
+  "homepage": "https://github.com/themancalledzac/Auctioneer#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
